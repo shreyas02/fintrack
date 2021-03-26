@@ -155,7 +155,12 @@ s1=s1-arroutflow[i].flow;
 let burnrate=s1/arroutflow.length;
 let days=s/burnrate;
 burnrate=burnrate.toFixed(2);
-burn.innerHTML+= `Burn Rate Is - ${burnrate} Rs/day `;
+if(s!=0){
+burn.innerHTML+= `Burn Rate Is  - ${burnrate} Rs/day `;
+}
+if(s==0){
+    burn.innerHTML+= `More data is required to display Burn Rate`;
+}
 
 //Show Results
 show.innerHTML = `Your balance is ${s} Rs...  Latest Netflow is ${arrnetflow[arrnetflow.length-1].flow} Rs <br/>Latest Outflow is ${arroutflow[arroutflow.length-1].flow} Rs....    Latest Inflow is ${arrinflow[arrinflow.length-1].flow} Rs <br/>  `
