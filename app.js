@@ -36,7 +36,7 @@ notesObj.forEach(function(element,index){
             <h5 class="card-title">Note ${index+1}</h5>
             
 <p class= "card-text"> ${element}</p>
-            <button id = "${index}" onclick= "deletenote(this.id)" class="btn btn-primary">Delete notes</button>
+            <button id = "${index}" onclick= "deletenote(this.id)" class="btn btn-primary">Delete Note</button>
           </div>
         </div>`
     
