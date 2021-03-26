@@ -54,4 +54,4 @@ Enter the date,  on which you are doing transactions, the amount in the analytic
 3. Submit pull request and comprehensive description of changes.
 ```
 
-> ## Screensho
+> ## Screenshots
