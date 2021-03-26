@@ -1,0 +1,55 @@
+#bottom-hyperlink{
+color: white;
+}
+
+.card-body:hover{
+background-color:rgb(235, 234, 236);
+    transition-delay:.1s;
+
+}
+
+
+
+	
+.footer {
+  position:bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+  display:sticky;
+text-align: center;
+font:arial;}
+
+.fa-linkedin {  
+    
+  color: white;  
+}  
+.fa {  
+  padding: 10px;  
+text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 40px;  
+}  
+#first-sep{
+border-top:1px solid black;
+}
+#first-sep1{
+border-top: 1px solid black;
+}
+#header1{
+	padding:20px;
+}
+.mail-icon{color:white;
+}
+#f1{
+  display: inline-block;
+  pointer-events: none;
+  color:white;
+}
+.fa-github {  
+  
+  color: white;  
+}  
