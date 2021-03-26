@@ -150,9 +150,9 @@ s=s+arrnetflow[i].flow;
 }
 let s1=0;
 for(let i=0;i<arroutflow.length;i++){
-s1=s1+arroutflow[i].flow;
+s1=s1-arroutflow[i].flow;
 }
-let burnrate=-s1/arroutflow.length;
+let burnrate=s1/arroutflow.length;
 let days=s/burnrate;
 burn.innerHTML+= `Burn Rate Is - ${burnrate} Rs/day `;
 
