@@ -1,3 +1,4 @@
+![Screenshot 2021-03-26 at 9 31 25 PM](https://user-images.githubusercontent.com/36041593/112660250-3bc7bf00-8e7b-11eb-9f5f-c9555ae5e3ec.png)
 # Fintrack
 
 ![logo](https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
