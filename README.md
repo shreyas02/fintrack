@@ -56,3 +56,8 @@ Enter the date,  on which you are doing transactions, the amount in the analytic
 ```
 
 > ## Screenshots
+![Screenshot 2021-03-26 at 9 31 25 PM](https://user-images.githubusercontent.com/36041593/112660329-55690680-8e7b-11eb-84df-b91cc0c28781.png)
+![Screenshot 2021-03-26 at 9 33 16 PM](https://user-images.githubusercontent.com/36041593/112660362-60239b80-8e7b-11eb-995f-e8baed7234fc.png)
+![Screenshot 2021-03-26 at 9 33 27 PM](https://user-images.githubusercontent.com/36041593/112660393-67e34000-8e7b-11eb-9dba-2b2be64f4ddf.png)
+![Screenshot 2021-03-26 at 9 33 38 PM](https://user-images.githubusercontent.com/36041593/112660420-703b7b00-8e7b-11eb-8540-09c744f05108.png)
+![Screenshot 2021-03-26 at 9 34 41 PM](https://user-images.githubusercontent.com/36041593/112660468-7cbfd380-8e7b-11eb-8cde-b761dc6f9937.png)
