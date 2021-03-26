@@ -18,7 +18,7 @@ Our project is primarily made for colleges students specifically rather than a g
 
 > ## Features
 
-- Privacy-You can store data on your browser so your data is with only you on your local system and not on any server.We respect your privacy and we are not goint to interfare in it anyway. it would be your Data, your Device, Your storage, we are not going to interfare in it.
+- Privacy-You can store data on your browser so your data is with only you on your local system and not on any server.We respect your privacy and we are not goint to interfere in it anyway. it would be your Data, your Device, Your storage, we are not going to interfare in it.
 
 - You can also make some notes regarding your transactions to keep it organised in the site.
 - Duplication would not be allowed as it can take only one input for one date for inflow and outflow. So you need not worry that you would fill in twice by chance.
