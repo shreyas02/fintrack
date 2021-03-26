@@ -1,0 +1,71 @@
+button{
+    padding:7px;
+    height:40px;
+    width:175px;
+    margin:1rem;
+    border: #259ad9 solid 1px;
+    border-radius: 15%;
+    background: none;
+    padding: 10px,20px;
+    font-family: 'Garamond', Arial, sans-serif;
+    transition: 0.8s;
+}
+#btninsert:hover{
+    color:#259ad9;
+}
+#btnreset:hover{
+    color:#259ad9;
+}
+#btnfilter:hover{
+    color:#259ad9;
+}
+#btndate:hover{
+    color:#259ad9;
+}
+input{
+    padding:1rem;
+    height:3rem;
+    width:12rem;
+    font-size: small;
+    font-family: 'Garamond', Arial, sans-serif;
+    margin:1rem;
+    border: #259ad9 solid 1px;
+    border-radius: 15%;
+}
+fieldset{
+    margin: 1rem;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div.charts{
+    width: 400px;
+    height:400px;
+    margin:.5rem;
+}
+div.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+legend{
+    font-size: 1.5rem;
+    font-family: 'Garamond', Arial, sans-serif;
+    font-weight: lighter;
+}
+fieldset.show{
+    border: #259ad9 solid 1px;
+    border-radius: 15%;
+}
+#show{
+    font-family: 'Garamond', Arial, sans-serif;
+}
+div.footer{
+    width:100%;
+    height:2rem;
+    background-color: black;
+    position: sticky;
+    bottom: 0px;
+}
