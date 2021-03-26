@@ -172,7 +172,7 @@ type: 'line',
 data: {
     labels: datefuc(arrnetflow),
     datasets: [{
-        label: 'Banance analysis',
+        label: 'Balance analysis',
         data: totolfuc(flowfuc(arrnetflow)),
         backgroundColor: 
             'rgba(102, 249, 147, 0.5)',
