@@ -53,7 +53,7 @@ Enter the date,  on which you are doing transactions, the amount in the analytic
 2. Make changes and test
 3. Submit pull request and comprehensive description of changes.
 ```
- ## Video Explanatin of our website
+> ## Video Explanatin of our website
  https://drive.google.com/file/d/1lSQd2S1jKS7PWhv7mGMs_D9ymy_B2Pnj/view?usp=sharing
 
 > ## Screenshots
