@@ -144,11 +144,15 @@ return tot;
 
 
 //burn out calc
-s=0
+let s=0;
 for(let i=0;i<arrnetflow.length;i++){
 s=s+arrnetflow[i].flow;
 }
-let burnrate=s/arrnetflow.length;
+let s1=0;
+for(let i=0;i<arroutflow.length;i++){
+s1=s1+arroutflow[i].flow;
+}
+let burnrate=-s1/arroutflow.length;
 let days=s/burnrate;
 burn.innerHTML+= `Burn Rate Is - ${burnrate} Rs/day `;
 
