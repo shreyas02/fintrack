@@ -154,6 +154,7 @@ s1=s1-arroutflow[i].flow;
 }
 let burnrate=s1/arroutflow.length;
 let days=s/burnrate;
+burnrate=burnrate.toFixed(2);
 burn.innerHTML+= `Burn Rate Is - ${burnrate} Rs/day `;
 
 //Show Results
