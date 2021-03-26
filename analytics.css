@@ -68,4 +68,7 @@ div.footer{
     background-color: black;
     position: sticky;
     bottom: 0px;
+    font-family: 'Garamond', Arial, sans-serif;
+    color:white;
+    text-align:center;
 }
